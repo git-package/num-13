@@ -1,6 +1,6 @@
 # num-13
 
-num-13 is a script that checks if a number is equal to 13.
+num-13 is a python script that checks if a number is equal to 13.
 
 ## Installation
 
