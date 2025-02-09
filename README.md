@@ -12,6 +12,8 @@ Invoke-WebRequest 'https://raw.githubusercontent.com/git-package/num-13/main/num
 
 ## Run
 
+Use the following bash script to run the file.
+
 ```bash
 python num-13.py
 ```
